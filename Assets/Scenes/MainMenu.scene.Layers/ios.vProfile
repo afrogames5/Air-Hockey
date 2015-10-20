@@ -1,0 +1,1736 @@
+﻿# YAML
+bool: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+byte: System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+CSharpFramework.AssetManagement.ProfileSpecificSettings: CSharpFramework.AssetManagement.ProfileSpecificSettings, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.BaseTypes.Color4: CSharpFramework.BaseTypes.Color4, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.BaseTypes.Color4F: CSharpFramework.BaseTypes.Color4F, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.BaseTypes.ColorCurves: CSharpFramework.BaseTypes.ColorCurves, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.BaseTypes.CurvePoint: CSharpFramework.BaseTypes.CurvePoint, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.BaseTypes.PointList: CSharpFramework.BaseTypes.PointList, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.DynamicProperties.DynamicEnumPropertyType: CSharpFramework.DynamicProperties.DynamicEnumPropertyType, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.DynamicProperties.DynamicProperty: CSharpFramework.DynamicProperties.DynamicProperty, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.DynamicProperties.DynamicPropertyCollection: CSharpFramework.DynamicProperties.DynamicPropertyCollection, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.DynamicProperties.DynamicPropertyCollectionType: CSharpFramework.DynamicProperties.DynamicPropertyCollectionType, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.DynamicProperties.DynamicPropertyCollectionType.DynamicPropertyCollectionFlags_e: CSharpFramework.DynamicProperties.DynamicPropertyCollectionType+DynamicPropertyCollectionFlags_e, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.DynamicProperties.DynamicPropertyType: CSharpFramework.DynamicProperties.DynamicPropertyType, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.ISurface.SHADERMODE: CSharpFramework.ISurface+SHADERMODE, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.PropertyEditors.FlagsInt32_e: CSharpFramework.PropertyEditors.FlagsInt32_e, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.FogSetup: CSharpFramework.Scene.FogSetup, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.FogSetup.Mode: CSharpFramework.Scene.FogSetup+Mode, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.RendererSetup: CSharpFramework.Scene.RendererSetup, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.ShaderEffectConfig: CSharpFramework.Scene.ShaderEffectConfig, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.ShapeComponent: CSharpFramework.Scene.ShapeComponent, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.ShapeComponentCollection: CSharpFramework.Scene.ShapeComponentCollection, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.ShapeComponentType: CSharpFramework.Scene.ShapeComponentType, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.SkyLayer: CSharpFramework.Scene.SkyLayer, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.SkyLayer.SkyMappingType_e: CSharpFramework.Scene.SkyLayer+SkyMappingType_e, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.SkyLayerCollection: CSharpFramework.Scene.SkyLayerCollection, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.TimeOfDay: CSharpFramework.Scene.TimeOfDay, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+float: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+int: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+long: System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ManagedFramework.VisionSky: ManagedFramework.VisionSky, ManagedFramework, Version=2014.1.1.11242, Culture=neutral, PublicKeyToken=null
+short: System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+string: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+string[]: System.String[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Collections.ArrayList: System.Collections.ArrayList, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Drawing.Color: System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Drawing.PointF: System.Drawing.PointF, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.RuntimeType: System.RuntimeType, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Type: System.Type, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+...
+---
+- &fae0e9d0411b4f93b990c88ee71d4b8b !CSharpFramework.AssetManagement.ProfileSpecificSettings
+  _skyConfig: *9451c732ce344fd3bbc58ba86e409472
+  _fNearClip: !float 5
+  _fFarClip: !float 32000
+  _fLODScale: !float 1
+  _fovX: !float 90
+  _defaultLightColor: !System.Drawing.Color
+    name: null
+    value: !long 0
+    knownColor: !short 164
+    state: !short 1
+  _rendererSetup: *587818adf5004afeb4a4828aab3a9b8e
+  _timeOfDay: *cffe22cb30584070ad69c6397075764a
+  _fogSetup: *ce09a907d6a0447796df08f438aac23a
+  _currentTime: !float 0.5
+  _bWantsTimeOfDay: !bool False
+  _globalAmbientColor: !System.Drawing.Color
+    name: null
+    value: !long 0
+    knownColor: !short 35
+    state: !short 1
+  _eSRGBMode: !int 0
+  _iTicksPerSecond2: !int 0
+  _iMaxTicksPerFrame: !int 10
+  _bLimitFrameRate: !bool True
+- &637d6b0b4cd24ee59434dbc9c3cd6082 !CSharpFramework.BaseTypes.ColorCurves
+  _R: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.75
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.25
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.75
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _G: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.75
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.25
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.75
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _B: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.75
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.87
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.75
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _A: !CSharpFramework.BaseTypes.PointList
+    count: !int 0
+- &752bd29ab458442fa94333accda411fb !CSharpFramework.BaseTypes.ColorCurves
+  _R: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.5
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.37
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.5
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _G: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.37
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.37
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.37
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _B: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.37
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.37
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.37
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _A: !CSharpFramework.BaseTypes.PointList
+    count: !int 0
+- &bc03e53f4b4445da8d1e8cc146059a60 !CSharpFramework.BaseTypes.ColorCurves
+  _R: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.15
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.5
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.15
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _G: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.15
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.5
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.15
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _B: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.15
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.5
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.15
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _A: !CSharpFramework.BaseTypes.PointList
+    count: !int 0
+- &bf48bde019174b9cb419cc19e6af75ca !CSharpFramework.BaseTypes.ColorCurves
+  _R: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.18
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.37
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.18
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _G: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.18
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.37
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.18
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _B: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.18
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.5
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.18
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _A: !CSharpFramework.BaseTypes.PointList
+    count: !int 0
+- &cac74e9aea5f43a286b4149fc1147bf9 !CSharpFramework.BaseTypes.ColorCurves
+  _R: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.35
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.75
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.35
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _G: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.3
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.75
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.3
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _B: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.35
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.87
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.35
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _A: !CSharpFramework.BaseTypes.PointList
+    count: !int 0
+- &e3814e8a38514995ae5c191a0fbd5467 !CSharpFramework.BaseTypes.ColorCurves
+  _R: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.127
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.558
+        y: !float 0.498
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.127
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _G: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.127
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.558
+        y: !float 0.498
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.127
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _B: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.127
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.558
+        y: !float 0.498
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.127
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _A: !CSharpFramework.BaseTypes.PointList
+    count: !int 0
+- &791218a6673354505475f93a1a0c9f48 !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType
+  _propertyTypes: !System.Collections.ArrayList
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string BoxSubDivisions
+    _nativeType: !System.Type int
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string LayerCount
+    _nativeType: !System.Type int
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string RotationZ
+    _nativeType: !System.Type float
+  _uniqueName: !string VSky
+  _flags: !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType.DynamicPropertyCollectionFlags_e None
+- &cc97837105c0b879cb0cb69a3f024668 !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType
+  _propertyTypes: !System.Collections.ArrayList
+  - !CSharpFramework.DynamicProperties.DynamicEnumPropertyType
+    _name: !string RenderingResolutionMode
+    _nativeType: !System.Type string
+    _enumValues: !string[]
+    - !string FULLSIZE
+    - !string QUARTERSIZE
+    - !string DPI
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string DesiredRenderingDpi
+    _nativeType: !System.Type float
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string ResolutionTolerance
+    _nativeType: !System.Type float
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string UseUpscaleFiltering
+    _nativeType: !System.Type bool
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string UseInterleavedTranslucencySorting
+    _nativeType: !System.Type bool
+  _uniqueName: !string VMobileForwardRenderingSystem
+  _flags: !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType.DynamicPropertyCollectionFlags_e None
+- &ce09a907d6a0447796df08f438aac23a !CSharpFramework.Scene.FogSetup
+  depthMode: !CSharpFramework.Scene.FogSetup.Mode Off
+  depthColor: !System.Drawing.Color
+    name: null
+    value: !long 4284774540
+    knownColor: !short 0
+    state: !short 2
+  depthStart: !float 0
+  depthRange: !float 1000
+  heightMode: !CSharpFramework.Scene.FogSetup.Mode Off
+  heightColor: !System.Drawing.Color
+    name: null
+    value: !long 4294967295
+    knownColor: !short 0
+    state: !short 2
+  heightDensity: !float 0.01
+  heightAddScattering: !bool False
+  heightStart: !float 0
+  heightRange: !float 10000
+  heightHalfDensityHeight: !float 1000
+  heightGroundOffset: !float 0
+  maskSky: !bool True
+  virtualSkyDepth: !float -1
+- &587818adf5004afeb4a4828aab3a9b8e !CSharpFramework.Scene.RendererSetup
+  _rendererNodeClass: !string VMobileForwardRenderingSystem
+  _rendererComponents: !CSharpFramework.Scene.ShapeComponentCollection
+  - !CSharpFramework.Scene.ShapeComponent
+    _collectionType: *bf33ff754b91baadf77d633a98387b5a
+    _properties: !System.Collections.ArrayList
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !string 
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string ComponentID
+        _nativeType: !System.Type string
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !string DOWNSCALE_2X
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicEnumPropertyType
+        _name: !string DownscaleMode
+        _nativeType: !System.Type string
+        _enumValues: !string[]
+        - !string DOWNSCALE_2X
+        - !string DOWNSCALE_4X
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 0.1
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string Bias
+        _nativeType: !System.Type float
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 6
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string Exponent
+        _nativeType: !System.Type float
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 1.5
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string Scale
+        _nativeType: !System.Type float
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !int 3
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string BlurPasses
+        _nativeType: !System.Type int
+    _bRemovable: !bool True
+    _bActive: !bool False
+    _bVisible: !bool True
+    _bEditable: !bool True
+    _bCreatedByNative: !bool False
+  - !CSharpFramework.Scene.ShapeComponent
+    _collectionType: *c8bc6aab7a7a9e106fb8290a757b0e0d
+    _properties: !System.Collections.ArrayList
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !string 
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string ComponentID
+        _nativeType: !System.Type string
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !string OFF
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicEnumPropertyType
+        _name: !string ToneMapType
+        _nativeType: !System.Type string
+        _enumValues: !string[]
+        - !string OFF
+        - !string SCALE
+        - !string SCALE_MAP
+        - !string GRADING
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !string 
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string Grading3DTexture
+        _nativeType: !System.Type string
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 1
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string Saturation
+        _nativeType: !System.Type float
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !CSharpFramework.BaseTypes.Color4
+        _r: !byte 255
+        _g: !byte 255
+        _b: !byte 255
+        _a: !byte 255
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string TintColor
+        _nativeType: !System.Type CSharpFramework.BaseTypes.Color4
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 1
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string Contrast
+        _nativeType: !System.Type float
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 0
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string Brightness
+        _nativeType: !System.Type float
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 0
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string MotionBlurFeedback
+        _nativeType: !System.Type float
+    _bRemovable: !bool True
+    _bActive: !bool False
+    _bVisible: !bool True
+    _bEditable: !bool True
+    _bCreatedByNative: !bool False
+  - !CSharpFramework.Scene.ShapeComponent
+    _collectionType: *9a0aee6f1985f60a640c1aac641640b9
+    _properties: !System.Collections.ArrayList
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !string 
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string ComponentID
+        _nativeType: !System.Type string
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !string MediumDither2
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicEnumPropertyType
+        _name: !string Quality
+        _nativeType: !System.Type string
+        _enumValues: !string[]
+        - !string Off
+        - !string MediumDither0
+        - !string MediumDither1
+        - !string MediumDither2
+        - !string MediumDither3
+        - !string MediumDither4
+        - !string MediumDither5
+        - !string LowDither0
+        - !string LowDither1
+        - !string LowDither2
+        - !string LowDither3
+        - !string LowDither4
+        - !string LowDither5
+        - !string LowDither6
+        - !string LowDither7
+        - !string LowDither8
+        - !string LowDither9
+        - !string Extreme
+    _bRemovable: !bool True
+    _bActive: !bool False
+    _bVisible: !bool True
+    _bEditable: !bool True
+    _bCreatedByNative: !bool False
+  - !CSharpFramework.Scene.ShapeComponent
+    _collectionType: *c42d681fd71fb8961b39f01ab0c5aa95
+    _properties: !System.Collections.ArrayList
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !string 
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string ComponentID
+        _nativeType: !System.Type string
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !bool True
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string EnableNoise
+        _nativeType: !System.Type bool
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 0.5
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string Intensity
+        _nativeType: !System.Type float
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 2
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string Granularity
+        _nativeType: !System.Type float
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 0
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string Threshold
+        _nativeType: !System.Type float
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !bool False
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string EnableVignette
+        _nativeType: !System.Type bool
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !string 
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string VignetteTexture
+        _nativeType: !System.Type string
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !string Multiplicative
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicEnumPropertyType
+        _name: !string VignetteBlending
+        _nativeType: !System.Type string
+        _enumValues: !string[]
+        - !string AlphaBlending
+        - !string AlphaTest
+        - !string Multiplicative
+        - !string Multiplicative2x
+        - !string Additive
+        - !string Subtractive
+    _bRemovable: !bool True
+    _bActive: !bool False
+    _bVisible: !bool True
+    _bEditable: !bool True
+    _bCreatedByNative: !bool False
+  _rendererProperties: !CSharpFramework.DynamicProperties.DynamicPropertyCollection
+    _collectionType: *cc97837105c0b879cb0cb69a3f024668
+    _properties: !System.Collections.ArrayList
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !string FULLSIZE
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicEnumPropertyType
+        _name: !string RenderingResolutionMode
+        _nativeType: !System.Type string
+        _enumValues: !string[]
+        - !string FULLSIZE
+        - !string QUARTERSIZE
+        - !string DPI
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 150
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string DesiredRenderingDpi
+        _nativeType: !System.Type float
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 30
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string ResolutionTolerance
+        _nativeType: !System.Type float
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !bool True
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string UseUpscaleFiltering
+        _nativeType: !System.Type bool
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !bool False
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string UseInterleavedTranslucencySorting
+        _nativeType: !System.Type bool
+- &7d3e70962a8544568b89c103ff91bde9 !CSharpFramework.Scene.ShaderEffectConfig
+  _libFilename: null
+  _effectName: null
+  _effectProperties: null
+  _shadermode: !CSharpFramework.ISurface.SHADERMODE AUTO
+  _templateFilename: null
+- &9a0aee6f1985f60a640c1aac641640b9 !CSharpFramework.Scene.ShapeComponentType
+  _propertyTypes: !System.Collections.ArrayList
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string ComponentID
+    _nativeType: !System.Type string
+  - !CSharpFramework.DynamicProperties.DynamicEnumPropertyType
+    _name: !string Quality
+    _nativeType: !System.Type string
+    _enumValues: !string[]
+    - !string Off
+    - !string MediumDither0
+    - !string MediumDither1
+    - !string MediumDither2
+    - !string MediumDither3
+    - !string MediumDither4
+    - !string MediumDither5
+    - !string LowDither0
+    - !string LowDither1
+    - !string LowDither2
+    - !string LowDither3
+    - !string LowDither4
+    - !string LowDither5
+    - !string LowDither6
+    - !string LowDither7
+    - !string LowDither8
+    - !string LowDither9
+    - !string Extreme
+  _uniqueName: !string VPostProcessFXAA
+  _flags: !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType.DynamicPropertyCollectionFlags_e None
+- &bf33ff754b91baadf77d633a98387b5a !CSharpFramework.Scene.ShapeComponentType
+  _propertyTypes: !System.Collections.ArrayList
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string ComponentID
+    _nativeType: !System.Type string
+  - !CSharpFramework.DynamicProperties.DynamicEnumPropertyType
+    _name: !string DownscaleMode
+    _nativeType: !System.Type string
+    _enumValues: !string[]
+    - !string DOWNSCALE_2X
+    - !string DOWNSCALE_4X
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string Bias
+    _nativeType: !System.Type float
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string Exponent
+    _nativeType: !System.Type float
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string Scale
+    _nativeType: !System.Type float
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string BlurPasses
+    _nativeType: !System.Type int
+  _uniqueName: !string VPostProcessGlow
+  _flags: !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType.DynamicPropertyCollectionFlags_e None
+- &c42d681fd71fb8961b39f01ab0c5aa95 !CSharpFramework.Scene.ShapeComponentType
+  _propertyTypes: !System.Collections.ArrayList
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string ComponentID
+    _nativeType: !System.Type string
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string EnableNoise
+    _nativeType: !System.Type bool
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string Intensity
+    _nativeType: !System.Type float
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string Granularity
+    _nativeType: !System.Type float
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string Threshold
+    _nativeType: !System.Type float
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string EnableVignette
+    _nativeType: !System.Type bool
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string VignetteTexture
+    _nativeType: !System.Type string
+  - !CSharpFramework.DynamicProperties.DynamicEnumPropertyType
+    _name: !string VignetteBlending
+    _nativeType: !System.Type string
+    _enumValues: !string[]
+    - !string AlphaBlending
+    - !string AlphaTest
+    - !string Multiplicative
+    - !string Multiplicative2x
+    - !string Additive
+    - !string Subtractive
+  _uniqueName: !string VPostProcessNoiseAndVignette
+  _flags: !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType.DynamicPropertyCollectionFlags_e None
+- &c8bc6aab7a7a9e106fb8290a757b0e0d !CSharpFramework.Scene.ShapeComponentType
+  _propertyTypes: !System.Collections.ArrayList
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string ComponentID
+    _nativeType: !System.Type string
+  - !CSharpFramework.DynamicProperties.DynamicEnumPropertyType
+    _name: !string ToneMapType
+    _nativeType: !System.Type string
+    _enumValues: !string[]
+    - !string OFF
+    - !string SCALE
+    - !string SCALE_MAP
+    - !string GRADING
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string Grading3DTexture
+    _nativeType: !System.Type string
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string Saturation
+    _nativeType: !System.Type float
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string TintColor
+    _nativeType: !System.Type CSharpFramework.BaseTypes.Color4
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string Contrast
+    _nativeType: !System.Type float
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string Brightness
+    _nativeType: !System.Type float
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string MotionBlurFeedback
+    _nativeType: !System.Type float
+  _uniqueName: !string VPostProcessToneMapping
+  _flags: !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType.DynamicPropertyCollectionFlags_e None
+- &766bc76ccff04f98b13dd75c7ac1f7c3 !CSharpFramework.Scene.SkyLayer
+  ParentSky: *9451c732ce344fd3bbc58ba86e409472
+  _cubeLeft: null
+  _cubeRight: null
+  _cubeFront: null
+  _cubeBack: null
+  _cubeTop: null
+  _cubeBottom: null
+  _texture: null
+  _mappingType: !CSharpFramework.Scene.SkyLayer.SkyMappingType_e Cubemap
+  _Color: !CSharpFramework.BaseTypes.Color4F
+    _r: !float 1
+    _g: !float 1
+    _b: !float 1
+    _a: !float 1
+  _fScrollX: !float 0
+  _fScrollY: !float 0
+  _fScaleX: !float 1
+  _fScaleY: !float 1
+  _fHeightPos: !float 0
+  _fHeightScale: !float 6.5
+  _layerName: null
+- &cffe22cb30584070ad69c6397075764a !CSharpFramework.Scene.TimeOfDay
+  _ambientColor: *bf48bde019174b9cb419cc19e6af75ca
+  _sunColor: *cac74e9aea5f43a286b4149fc1147bf9
+  _backlightColor: *752bd29ab458442fa94333accda411fb
+  _moonColor: *637d6b0b4cd24ee59434dbc9c3cd6082
+  _sunIntensity: !CSharpFramework.BaseTypes.PointList
+    count: !int 5
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.2
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 1
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    3: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.8
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    4: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _backlightIntensity: !CSharpFramework.BaseTypes.PointList
+    count: !int 5
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.2
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.35
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    3: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.8
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    4: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _moonIntensity: !CSharpFramework.BaseTypes.PointList
+    count: !int 5
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.38
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.35
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    3: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.65
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    4: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.38
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _fogColor: *bc03e53f4b4445da8d1e8cc146059a60
+  _fogStart: !CSharpFramework.BaseTypes.PointList
+    count: !int 4
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.1406
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.3
+        y: !float 0.0044
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.558
+        y: !float 0.5
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    3: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.1747
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _fogEnd: !CSharpFramework.BaseTypes.PointList
+    count: !int 4
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.25
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.3
+        y: !float 0.1484
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.558
+        y: !float 0.8828
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    3: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.3148
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _fogRange: !float 10000
+  _fogStartDist: !float 0
+  _heightFogColor: *e3814e8a38514995ae5c191a0fbd5467
+  _heightFogStart: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _heightFogEnd: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 1
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 1
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 1
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _heightFogRange: !float 10000
+  _heightFogStartDist: !float 0
+  _heightFogDensity: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 1
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0.1
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 1
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _heightFogDensityScale: !float 0.001
+  _heightFogHalfDensityHeight: !CSharpFramework.BaseTypes.PointList
+    count: !int 3
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0.5
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 1
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0.5
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _heightFogHalfDensityHeightScale: !float 1000
+  _dawnSkyFade: !CSharpFramework.BaseTypes.PointList
+    count: !int 4
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.25
+        y: !float 0.75
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    3: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _duskSkyFade: !CSharpFramework.BaseTypes.PointList
+    count: !int 4
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.5
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.75
+        y: !float 1
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    3: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+  _nightSkyFade: !CSharpFramework.BaseTypes.PointList
+    count: !int 4
+    0: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0
+        y: !float 1
+      in: !System.Drawing.PointF
+        x: !float -0.2
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.2
+        y: !float 0
+      linear: !bool False
+    1: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.35
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    2: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 0.65
+        y: !float 0
+      in: !System.Drawing.PointF
+        x: !float -0.1
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.1
+        y: !float 0
+      linear: !bool False
+    3: !CSharpFramework.BaseTypes.CurvePoint
+      pos: !System.Drawing.PointF
+        x: !float 1
+        y: !float 1
+      in: !System.Drawing.PointF
+        x: !float -0.2
+        y: !float 0
+      out: !System.Drawing.PointF
+        x: !float 0.2
+        y: !float 0
+      linear: !bool False
+  _bControlSky: !bool True
+  _sunDirectionHorizontal: !float 0
+  _sunDirectionVertical: !float 33
+  _sunRiseTime: !float 0.25
+  _sunSetTime: !float 0.75
+  _oldOrientationStyle: !bool False
+- &9451c732ce344fd3bbc58ba86e409472 !ManagedFramework.VisionSky
+  _iVisibleBitmask: !CSharpFramework.PropertyEditors.FlagsInt32_e None
+  _layers: !CSharpFramework.Scene.SkyLayerCollection
+    ParentSky: *9451c732ce344fd3bbc58ba86e409472
+    CollectionBase+list: !System.Collections.ArrayList
+    - *766bc76ccff04f98b13dd75c7ac1f7c3
+  _skyClass: !string VSky
+  _skyProperties: !CSharpFramework.DynamicProperties.DynamicPropertyCollection
+    _collectionType: *791218a6673354505475f93a1a0c9f48
+    _properties: !System.Collections.ArrayList
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !int 12
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string BoxSubDivisions
+        _nativeType: !System.Type int
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !int 1
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string LayerCount
+        _nativeType: !System.Type int
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 0
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string RotationZ
+        _nativeType: !System.Type float
+  _shaderFX: *7d3e70962a8544568b89c103ff91bde9
+...

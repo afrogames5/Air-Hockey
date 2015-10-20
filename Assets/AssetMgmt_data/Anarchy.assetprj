@@ -188,41 +188,6 @@
                         "MaximumSize": 0
                     }
                 }
-            },
-            "Default_NORMAL_USAGE": {
-                "pcdx9": {
-                    "TextureTransformationRule": {
-                        "Compression": "Quality",
-                        "Usage": "NormalMap",
-                        "RemoveAlphaChannel": false,
-                        "CreateMipMaps": true,
-                        "DownscaleLevel": 0,
-                        "MinimumSize": 0,
-                        "MaximumSize": 0
-                    }
-                },
-                "ios": {
-                    "TextureTransformationRule": {
-                        "Compression": "Quality",
-                        "Usage": "NormalMap",
-                        "RemoveAlphaChannel": false,
-                        "CreateMipMaps": true,
-                        "DownscaleLevel": 0,
-                        "MinimumSize": 0,
-                        "MaximumSize": 0
-                    }
-                },
-                "android": {
-                    "TextureTransformationRule": {
-                        "Compression": "Quality",
-                        "Usage": "NormalMap",
-                        "RemoveAlphaChannel": false,
-                        "CreateMipMaps": true,
-                        "DownscaleLevel": 0,
-                        "MinimumSize": 0,
-                        "MaximumSize": 0
-                    }
-                }
             }
         },
         "StaticMesh": {
