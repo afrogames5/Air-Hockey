@@ -1,0 +1,73 @@
+﻿# YAML
+bool: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+CSharpFramework.Math.Vector3F: CSharpFramework.Math.Vector3F, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.View.Grid: CSharpFramework.View.Grid, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.View.GridSettings: CSharpFramework.View.GridSettings, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+CSharpFramework.View.GridSettings.GridRenderMode: CSharpFramework.View.GridSettings+GridRenderMode, CSharpFramework, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+Editor.EditorSceneSettings: Editor.EditorSceneSettings, vForge, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+Editor.ScreenshotSettings: Editor.ScreenshotSettings, vForge, Version=2014.1.1.1, Culture=neutral, PublicKeyToken=null
+float: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+int: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+long: System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+short: System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+string: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Drawing.Color: System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.Type: System.Type, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+...
+---
+- &7b779bc8baf443638e5500756b7afe4f !Editor.EditorSceneSettings
+  _showDescAtStartup: !bool True
+  _vLuxSettingsFile: null
+  _bUseDefaultvLuxSettingsFile: !bool True
+  _shapeOrigin: !CSharpFramework.Math.Vector3F
+    X: !float 0
+    Y: !float 0
+    Z: !float 0
+  _cameraPosition: !CSharpFramework.Math.Vector3F
+    X: !float 0
+    Y: !float 0
+    Z: !float 0
+  _cameraAngles: !CSharpFramework.Math.Vector3F
+    X: !float 0
+    Y: !float 0
+    Z: !float 0
+  _gridSettings: *4ad5b5ef670b416a989f61f8776cfbcc
+  _exportProfileName: null
+  _autoSaveExportProfile: !bool False
+  _screenshotSettings: *7ad0d8b51ece443480d0b45410043d4f
+- &6e31b6a8151a45a1965c681dab5bd07f !CSharpFramework.View.Grid
+  bEnabled: !bool False
+  fSpacing: !float 50
+  fRenderOffset: !float 0
+  iRenderHighlight: !int 10
+  bSnapRenderOffset: !bool True
+  LineColor: !System.Drawing.Color
+    name: null
+    value: !long 4286611584
+    knownColor: !short 0
+    state: !short 2
+- &da0f792662ce40cc81ba4729939861db !CSharpFramework.View.Grid
+  bEnabled: !bool True
+  fSpacing: !float 1
+  fRenderOffset: !float 0
+  iRenderHighlight: !int 10
+  bSnapRenderOffset: !bool True
+  LineColor: !System.Drawing.Color
+    name: null
+    value: !long 4286611584
+    knownColor: !short 0
+    state: !short 2
+- &4ad5b5ef670b416a989f61f8776cfbcc !CSharpFramework.View.GridSettings
+  MoveGrid: *6e31b6a8151a45a1965c681dab5bd07f
+  RotateGrid: *da0f792662ce40cc81ba4729939861db
+  GridRenderMode: !CSharpFramework.View.GridSettings.GridRenderMode Disabled
+- &7ad0d8b51ece443480d0b45410043d4f !Editor.ScreenshotSettings
+  _directory: !string H:\Documenti\AFRO GAMES\Giochi\Air-Hockey\Assets
+  _fileName: !string ScreenShot
+  _fileExtension: !string .png
+  _fovX: !float 90
+  _useCustomViewport: !bool False
+  _viewportHeight: !int 4096
+  _viewportWidth: !int 4096
+  _openExternally: !bool True
+...
