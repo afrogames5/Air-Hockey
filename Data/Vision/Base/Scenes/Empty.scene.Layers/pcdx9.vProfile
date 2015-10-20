@@ -1,0 +1,156 @@
+﻿# YAML
+bool: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+CSharpFramework.AssetManagement.ProfileSpecificSettings: CSharpFramework.AssetManagement.ProfileSpecificSettings, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.BaseTypes.Color4F: CSharpFramework.BaseTypes.Color4F, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.DynamicProperties.DynamicProperty: CSharpFramework.DynamicProperties.DynamicProperty, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.DynamicProperties.DynamicPropertyCollection: CSharpFramework.DynamicProperties.DynamicPropertyCollection, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.DynamicProperties.DynamicPropertyCollectionType: CSharpFramework.DynamicProperties.DynamicPropertyCollectionType, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.DynamicProperties.DynamicPropertyCollectionType.DynamicPropertyCollectionFlags_e: CSharpFramework.DynamicProperties.DynamicPropertyCollectionType+DynamicPropertyCollectionFlags_e, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.DynamicProperties.DynamicPropertyType: CSharpFramework.DynamicProperties.DynamicPropertyType, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.ISurface.SHADERMODE: CSharpFramework.ISurface+SHADERMODE, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.PropertyEditors.FlagsInt32_e: CSharpFramework.PropertyEditors.FlagsInt32_e, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.FogSetup: CSharpFramework.Scene.FogSetup, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.FogSetup.Mode: CSharpFramework.Scene.FogSetup+Mode, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.RendererSetup: CSharpFramework.Scene.RendererSetup, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.ShaderEffectConfig: CSharpFramework.Scene.ShaderEffectConfig, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.ShapeComponentCollection: CSharpFramework.Scene.ShapeComponentCollection, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.SkyLayer: CSharpFramework.Scene.SkyLayer, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.SkyLayer.SkyMappingType_e: CSharpFramework.Scene.SkyLayer+SkyMappingType_e, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+CSharpFramework.Scene.SkyLayerCollection: CSharpFramework.Scene.SkyLayerCollection, CSharpFramework, Version=2014.1.0.0, Culture=neutral, PublicKeyToken=null
+float: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+int: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+long: System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ManagedFramework.VisionSky: ManagedFramework.VisionSky, ManagedFramework, Version=2014.1.0.31383, Culture=neutral, PublicKeyToken=null
+short: System.Int16, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+string: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Collections.ArrayList: System.Collections.ArrayList, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Drawing.Color: System.Drawing.Color, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+System.RuntimeType: System.RuntimeType, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System.Type: System.Type, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+...
+---
+- &75155cb102174354a4f30cb4ceddd177 !CSharpFramework.AssetManagement.ProfileSpecificSettings
+  _skyConfig: *a4b643f8ec76481e9bb8870883efc307
+  _fNearClip: !float 5
+  _fFarClip: !float 32000
+  _fovX: !float 90
+  _defaultLightColor: !System.Drawing.Color
+    name: null
+    value: !long 0
+    knownColor: !short 164
+    state: !short 1
+  _rendererSetup: *ce6f1ba6457849ecaa4714179a5160a2
+  _timeOfDay: null
+  _fogSetup: *77f2853c364e48b78e33ee38a2d28902
+  _currentTime: !float 0.5
+  _bWantsTimeOfDay: !bool True
+  _globalAmbientColor: !System.Drawing.Color
+    name: null
+    value: !long 0
+    knownColor: !short 35
+    state: !short 1
+  _eSRGBMode: !int 0
+  _iTicksPerSecond2: !int 0
+  _iMaxTicksPerFrame: !int 10
+  _bLimitFrameRate: !bool True
+- &791218a6673354505475f93a1a0c9f48 !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType
+  _propertyTypes: !System.Collections.ArrayList
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string BoxSubDivisions
+    _nativeType: !System.Type int
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string LayerCount
+    _nativeType: !System.Type int
+  - !CSharpFramework.DynamicProperties.DynamicPropertyType
+    _name: !string RotationZ
+    _nativeType: !System.Type float
+  _uniqueName: !string VSky
+  _flags: !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType.DynamicPropertyCollectionFlags_e None
+- &816f38be92b98542b0fe69b7ca2670e1 !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType
+  _propertyTypes: !System.Collections.ArrayList []
+  _uniqueName: !string VSimpleRendererNode
+  _flags: !CSharpFramework.DynamicProperties.DynamicPropertyCollectionType.DynamicPropertyCollectionFlags_e None
+- &77f2853c364e48b78e33ee38a2d28902 !CSharpFramework.Scene.FogSetup
+  depthMode: !CSharpFramework.Scene.FogSetup.Mode Off
+  depthColor: !System.Drawing.Color
+    name: null
+    value: !long 0
+    knownColor: !short 35
+    state: !short 1
+  depthStart: !float 1000
+  depthRange: !float 4000
+  heightMode: !CSharpFramework.Scene.FogSetup.Mode Off
+  heightColor: !System.Drawing.Color
+    name: null
+    value: !long 4294967295
+    knownColor: !short 0
+    state: !short 2
+  heightDensity: !float 0.01
+  heightAddScattering: !bool False
+  heightStart: !float 0
+  heightRange: !float 10000
+  heightHalfDensityHeight: !float 1000
+  heightGroundOffset: !float 0
+  maskSky: !bool True
+  virtualSkyDepth: !float -1
+- &ce6f1ba6457849ecaa4714179a5160a2 !CSharpFramework.Scene.RendererSetup
+  _rendererNodeClass: !string VSimpleRendererNode
+  _rendererComponents: !CSharpFramework.Scene.ShapeComponentCollection []
+  _rendererProperties: !CSharpFramework.DynamicProperties.DynamicPropertyCollection
+    _collectionType: *816f38be92b98542b0fe69b7ca2670e1
+    _properties: !System.Collections.ArrayList []
+- &d24278beb9c04e3ea4325001c275a40f !CSharpFramework.Scene.ShaderEffectConfig
+  _libFilename: null
+  _effectName: null
+  _effectProperties: null
+  _shadermode: !CSharpFramework.ISurface.SHADERMODE AUTO
+  _templateFilename: null
+- &fa58c140446649e48ba5133d200658f8 !CSharpFramework.Scene.SkyLayer
+  ParentSky: *a4b643f8ec76481e9bb8870883efc307
+  _cubeLeft: null
+  _cubeRight: null
+  _cubeFront: null
+  _cubeBack: null
+  _cubeTop: null
+  _cubeBottom: null
+  _texture: null
+  _mappingType: !CSharpFramework.Scene.SkyLayer.SkyMappingType_e Cubemap
+  _Color: !CSharpFramework.BaseTypes.Color4F
+    _r: !float 1
+    _g: !float 1
+    _b: !float 1
+    _a: !float 1
+  _fScrollX: !float 0
+  _fScrollY: !float 0
+  _fScaleX: !float 1
+  _fScaleY: !float 1
+  _fHeightPos: !float 0
+  _fHeightScale: !float 6.5
+  _layerName: null
+- &a4b643f8ec76481e9bb8870883efc307 !ManagedFramework.VisionSky
+  _iVisibleBitmask: !CSharpFramework.PropertyEditors.FlagsInt32_e None
+  _layers: !CSharpFramework.Scene.SkyLayerCollection
+    ParentSky: *a4b643f8ec76481e9bb8870883efc307
+    CollectionBase+list: !System.Collections.ArrayList
+    - *fa58c140446649e48ba5133d200658f8
+  _skyClass: !string VSky
+  _skyProperties: !CSharpFramework.DynamicProperties.DynamicPropertyCollection
+    _collectionType: *791218a6673354505475f93a1a0c9f48
+    _properties: !System.Collections.ArrayList
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !int 12
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string BoxSubDivisions
+        _nativeType: !System.Type int
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !int 1
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string LayerCount
+        _nativeType: !System.Type int
+    - !CSharpFramework.DynamicProperties.DynamicProperty
+      _value: !float 0
+      _propertyType: !CSharpFramework.DynamicProperties.DynamicPropertyType
+        _name: !string RotationZ
+        _nativeType: !System.Type float
+  _shaderFX: *d24278beb9c04e3ea4325001c275a40f
+...

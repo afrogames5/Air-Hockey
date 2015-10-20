@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AirHockeyAppDX9", "Source\AirHockeyApp\AirHockeyAppDX9_win32_vs2010_anarchy.vcxproj", "{CD8A638D-03F3-4EDD-AE9B-8DCCA898AE6C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9B37CA40-3DB7-4543-B2FF-89E9F07FDE75} = {9B37CA40-3DB7-4543-B2FF-89E9F07FDE75}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AirHockeyEnginePluginDX9", "Source\AirHockeyEnginePlugin\AirHockeyEnginePluginDX9_win32_vs2010_anarchy.vcxproj", "{9B37CA40-3DB7-4543-B2FF-89E9F07FDE75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vision", "Vision", "{DECD1135-5373-46B1-AF36-2A4BE33B32A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{E562F25F-6A5A-4E72-866D-923A102F635E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{A50A5EF7-40C9-41D4-A362-5B3539865614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|win32 = Debug|win32
+		Dev|win32 = Dev|win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8A638D-03F3-4EDD-AE9B-8DCCA898AE6C}.Debug|win32.ActiveCfg = Debug|win32
+		{CD8A638D-03F3-4EDD-AE9B-8DCCA898AE6C}.Debug|win32.Build.0 = Debug|win32
+		{CD8A638D-03F3-4EDD-AE9B-8DCCA898AE6C}.Dev|win32.ActiveCfg = Dev|win32
+		{CD8A638D-03F3-4EDD-AE9B-8DCCA898AE6C}.Dev|win32.Build.0 = Dev|win32
+		{9B37CA40-3DB7-4543-B2FF-89E9F07FDE75}.Debug|win32.ActiveCfg = Debug|win32
+		{9B37CA40-3DB7-4543-B2FF-89E9F07FDE75}.Debug|win32.Build.0 = Debug|win32
+		{9B37CA40-3DB7-4543-B2FF-89E9F07FDE75}.Dev|win32.ActiveCfg = Dev|win32
+		{9B37CA40-3DB7-4543-B2FF-89E9F07FDE75}.Dev|win32.Build.0 = Dev|win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DECD1135-5373-46B1-AF36-2A4BE33B32A7} = {64F62E7D-6ED7-4E64-9E08-2D9B832B1A47}
+		{E562F25F-6A5A-4E72-866D-923A102F635E} = {DECD1135-5373-46B1-AF36-2A4BE33B32A7}
+		{A50A5EF7-40C9-41D4-A362-5B3539865614} = {E562F25F-6A5A-4E72-866D-923A102F635E}
+		{CD8A638D-03F3-4EDD-AE9B-8DCCA898AE6C} = {A50A5EF7-40C9-41D4-A362-5B3539865614}
+		{9B37CA40-3DB7-4543-B2FF-89E9F07FDE75} = {A50A5EF7-40C9-41D4-A362-5B3539865614}
+	EndGlobalSection
+EndGlobal

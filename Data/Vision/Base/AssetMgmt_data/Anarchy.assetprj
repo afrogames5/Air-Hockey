@@ -1,0 +1,676 @@
+{
+    "Profiles": {
+        "pcdx9": {
+            "Platform": "DX9"
+        },
+        "ios": {
+            "Platform": "iOS"
+        },
+        "android": {
+            "Platform": "ANDROID"
+        },
+        "tizen": {
+            "Platform": "Tizen"
+        }
+    },
+    "TransformTemplates": {
+        "Animated Texture": {
+            "Default": {
+                "psvita": {
+                    "None": {
+
+                    }
+                },
+                "pcdx11": {
+                    "None": {
+
+                    }
+                },
+                "ios": {
+                    "None": {
+
+                    }
+                },
+                "tizen": {
+                    "None": {
+
+                    }
+                },
+                "android": {
+                    "None": {
+
+                    }
+                },
+                "ps3": {
+                    "None": {
+
+                    }
+                },
+                "pcdx9": {
+                    "None": {
+
+                    }
+                },
+                "xbox360": {
+                    "None": {
+
+                    }
+                },
+                "wiiu": {
+                    "None": {
+
+                    }
+                }
+            }
+        },
+        "Prefab": {
+            "Default": {
+                "psvita": {
+                    "None": {
+
+                    }
+                },
+                "pcdx11": {
+                    "None": {
+
+                    }
+                },
+                "ios": {
+                    "None": {
+
+                    }
+                },
+                "tizen": {
+                    "None": {
+
+                    }
+                },
+                "android": {
+                    "None": {
+
+                    }
+                },
+                "ps3": {
+                    "None": {
+
+                    }
+                },
+                "pcdx9": {
+                    "None": {
+
+                    }
+                },
+                "xbox360": {
+                    "None": {
+
+                    }
+                },
+                "wiiu": {
+                    "None": {
+
+                    }
+                }
+            }
+        },
+        "Animation": {
+            "Default": {
+                "psvita": {
+                    "None": {
+
+                    }
+                },
+                "pcdx11": {
+                    "None": {
+
+                    }
+                },
+                "ios": {
+                    "None": {
+
+                    }
+                },
+                "tizen": {
+                    "None": {
+
+                    }
+                },
+                "android": {
+                    "None": {
+
+                    }
+                },
+                "ps3": {
+                    "None": {
+
+                    }
+                },
+                "pcdx9": {
+                    "None": {
+
+                    }
+                },
+                "xbox360": {
+                    "None": {
+
+                    }
+                },
+                "wiiu": {
+                    "None": {
+
+                    }
+                }
+            }
+        },
+        "Particle": {
+            "Default": {
+                "psvita": {
+                    "None": {
+
+                    }
+                },
+                "pcdx11": {
+                    "None": {
+
+                    }
+                },
+                "ios": {
+                    "None": {
+
+                    }
+                },
+                "tizen": {
+                    "None": {
+
+                    }
+                },
+                "android": {
+                    "None": {
+
+                    }
+                },
+                "ps3": {
+                    "None": {
+
+                    }
+                },
+                "pcdx9": {
+                    "None": {
+
+                    }
+                },
+                "xbox360": {
+                    "None": {
+
+                    }
+                },
+                "wiiu": {
+                    "None": {
+
+                    }
+                }
+            }
+        },
+        "Model": {
+            "Default": {
+                "psvita": {
+                    "None": {
+
+                    }
+                },
+                "pcdx11": {
+                    "None": {
+
+                    }
+                },
+                "ios": {
+                    "None": {
+
+                    }
+                },
+                "tizen": {
+                    "None": {
+
+                    }
+                },
+                "android": {
+                    "None": {
+
+                    }
+                },
+                "ps3": {
+                    "None": {
+
+                    }
+                },
+                "pcdx9": {
+                    "None": {
+
+                    }
+                },
+                "xbox360": {
+                    "None": {
+
+                    }
+                },
+                "wiiu": {
+                    "None": {
+
+                    }
+                }
+            }
+        },
+        "Unknown": {
+            "Default": {
+                "psvita": {
+                    "None": {
+
+                    }
+                },
+                "pcdx11": {
+                    "None": {
+
+                    }
+                },
+                "ios": {
+                    "None": {
+
+                    }
+                },
+                "tizen": {
+                    "None": {
+
+                    }
+                },
+                "android": {
+                    "None": {
+
+                    }
+                },
+                "ps3": {
+                    "None": {
+
+                    }
+                },
+                "pcdx9": {
+                    "None": {
+
+                    }
+                },
+                "xbox360": {
+                    "None": {
+
+                    }
+                },
+                "wiiu": {
+                    "None": {
+
+                    }
+                }
+            }
+        },
+        "Script": {
+            "Default": {
+                "psvita": {
+                    "None": {
+
+                    }
+                },
+                "pcdx11": {
+                    "None": {
+
+                    }
+                },
+                "ios": {
+                    "None": {
+
+                    }
+                },
+                "tizen": {
+                    "None": {
+
+                    }
+                },
+                "android": {
+                    "None": {
+
+                    }
+                },
+                "ps3": {
+                    "None": {
+
+                    }
+                },
+                "pcdx9": {
+                    "None": {
+
+                    }
+                },
+                "xbox360": {
+                    "None": {
+
+                    }
+                },
+                "wiiu": {
+                    "None": {
+
+                    }
+                }
+            }
+        },
+        "Havok Tagfile": {
+            "Default": {
+                "AllProfiles": {
+                    "TagfileTransformationRule": {
+
+                    }
+                }
+            }
+        },
+        "Texture": {
+            "Default": {
+                "psvita": {
+                    "None": {
+
+                    }
+                },
+                "pcdx11": {
+                    "None": {
+
+                    }
+                },
+                "ios": {
+                    "None": {
+
+                    }
+                },
+                "tizen": {
+                    "None": {
+
+                    }
+                },
+                "android": {
+                    "None": {
+
+                    }
+                },
+                "ps3": {
+                    "None": {
+
+                    }
+                },
+                "pcdx9": {
+                    "None": {
+
+                    }
+                },
+                "xbox360": {
+                    "None": {
+
+                    }
+                },
+                "wiiu": {
+                    "None": {
+
+                    }
+                }
+            },
+            "Icons": {
+                "psvita": {
+                    "TextureTransformationRule": {
+                        "Compression": "Quality",
+                        "Usage": "Undefined",
+                        "RemoveAlphaChannel": false,
+                        "CreateMipMaps": true,
+                        "DownscaleLevel": 0,
+                        "MinimumSize": 0,
+                        "MaximumSize": 0
+                    }
+                },
+                "pcdx11": {
+                    "TextureTransformationRule": {
+                        "Compression": "Quality",
+                        "Usage": "Undefined",
+                        "RemoveAlphaChannel": false,
+                        "CreateMipMaps": true,
+                        "DownscaleLevel": 0,
+                        "MinimumSize": 0,
+                        "MaximumSize": 0
+                    }
+                },
+                "ios": {
+                    "TextureTransformationRule": {
+                        "Compression": "Quality",
+                        "Usage": "Undefined",
+                        "RemoveAlphaChannel": false,
+                        "CreateMipMaps": true,
+                        "DownscaleLevel": 0,
+                        "MinimumSize": 0,
+                        "MaximumSize": 0
+                    }
+                },
+                "tizen": {
+                    "TextureTransformationRule": {
+                        "Compression": "Quality",
+                        "Usage": "Undefined",
+                        "RemoveAlphaChannel": false,
+                        "CreateMipMaps": true,
+                        "DownscaleLevel": 0,
+                        "MinimumSize": 0,
+                        "MaximumSize": 0
+                    }
+                },
+                "android": {
+                    "TextureTransformationRule": {
+                        "Compression": "Quality",
+                        "Usage": "Undefined",
+                        "RemoveAlphaChannel": false,
+                        "CreateMipMaps": true,
+                        "DownscaleLevel": 0,
+                        "MinimumSize": 0,
+                        "MaximumSize": 0
+                    }
+                },
+                "ps3": {
+                    "TextureTransformationRule": {
+                        "Compression": "Quality",
+                        "Usage": "Undefined",
+                        "RemoveAlphaChannel": false,
+                        "CreateMipMaps": true,
+                        "DownscaleLevel": 0,
+                        "MinimumSize": 0,
+                        "MaximumSize": 0
+                    }
+                },
+                "pcdx9": {
+                    "TextureTransformationRule": {
+                        "Compression": "Quality",
+                        "Usage": "Undefined",
+                        "RemoveAlphaChannel": false,
+                        "CreateMipMaps": true,
+                        "DownscaleLevel": 0,
+                        "MinimumSize": 0,
+                        "MaximumSize": 0
+                    }
+                },
+                "xbox360": {
+                    "TextureTransformationRule": {
+                        "Compression": "Quality",
+                        "Usage": "Undefined",
+                        "RemoveAlphaChannel": false,
+                        "CreateMipMaps": true,
+                        "DownscaleLevel": 0,
+                        "MinimumSize": 0,
+                        "MaximumSize": 0
+                    }
+                },
+                "wiiu": {
+                    "TextureTransformationRule": {
+                        "Compression": "Quality",
+                        "Usage": "Undefined",
+                        "RemoveAlphaChannel": false,
+                        "CreateMipMaps": true,
+                        "DownscaleLevel": 0,
+                        "MinimumSize": 0,
+                        "MaximumSize": 0
+                    }
+                }
+            }
+        },
+        "StaticMesh": {
+            "Default": {
+                "psvita": {
+                    "None": {
+
+                    }
+                },
+                "pcdx11": {
+                    "None": {
+
+                    }
+                },
+                "ios": {
+                    "None": {
+
+                    }
+                },
+                "tizen": {
+                    "None": {
+
+                    }
+                },
+                "android": {
+                    "None": {
+
+                    }
+                },
+                "ps3": {
+                    "None": {
+
+                    }
+                },
+                "pcdx9": {
+                    "None": {
+
+                    }
+                },
+                "xbox360": {
+                    "None": {
+
+                    }
+                },
+                "wiiu": {
+                    "None": {
+
+                    }
+                }
+            }
+        },
+        "FBX": {
+            "Default": {
+                "AllProfiles": {
+                    "FbxToTagfileTransformationRule": {
+
+                    }
+                }
+            }
+        },
+        "Collection": {
+            "Default": {
+                "psvita": {
+                    "None": {
+
+                    }
+                },
+                "pcdx11": {
+                    "None": {
+
+                    }
+                },
+                "ios": {
+                    "None": {
+
+                    }
+                },
+                "tizen": {
+                    "None": {
+
+                    }
+                },
+                "android": {
+                    "None": {
+
+                    }
+                },
+                "ps3": {
+                    "None": {
+
+                    }
+                },
+                "pcdx9": {
+                    "None": {
+
+                    }
+                },
+                "xbox360": {
+                    "None": {
+
+                    }
+                },
+                "wiiu": {
+                    "None": {
+
+                    }
+                }
+            }
+        },
+        "CollisionMesh": {
+            "Default": {
+                "psvita": {
+                    "None": {
+
+                    }
+                },
+                "pcdx11": {
+                    "None": {
+
+                    }
+                },
+                "ios": {
+                    "None": {
+
+                    }
+                },
+                "tizen": {
+                    "None": {
+
+                    }
+                },
+                "android": {
+                    "None": {
+
+                    }
+                },
+                "ps3": {
+                    "None": {
+
+                    }
+                },
+                "pcdx9": {
+                    "None": {
+
+                    }
+                },
+                "xbox360": {
+                    "None": {
+
+                    }
+                },
+                "wiiu": {
+                    "None": {
+
+                    }
+                }
+            }
+        }
+    }
+}
